@@ -1,4 +1,4 @@
-# SENSORIUM
+# RN
 This folder describe the necessary steps to run the "nf-core-rnaseq" pipeline using NEXTFLOWTOWER.
 
 08-08-2024

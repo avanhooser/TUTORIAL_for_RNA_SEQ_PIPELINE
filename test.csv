@@ -1,0 +1,3 @@
+﻿sample,fastq_1,fastq_2,strandedness
+CV2022-7775_S5,s3://cro-wuxi/2nd_run/CV2022-7775_S5_R1_001.fastq.gz,s3://cro-wuxi/2nd_run/CV2022-7775_S5_R2_001.fastq.gz,reverse
+CV2022-7776_S6,s3://cro-wuxi/2nd_run/CV2022-7776_S6_R1_001.fastq.gz,s3://cro-wuxi/2nd_run/CV2022-7776_S6_R2_001.fastq.gz,reverse

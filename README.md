@@ -49,6 +49,7 @@ For this tutorial, we created the output folder: "result_TEST"
 - Click on "LAUNCHPAD" , select "nf-core-rnaseq" then fill out the blank field with the following:
   
 Input :  s3://sensorium-research-rna-seq-raw-quintara/TEST/test.csv
+
 Output:  s3://sensorium-tower-bucket/result_TEST/
 
 genome: GRCh37|GRCm38|Rnor_6.0

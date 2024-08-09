@@ -20,7 +20,7 @@ which contains some sample FASTQ files
 
 ## Step2:  Create a csv file (FASTQMAP) that maps each sample ID with the FASTQ addresses corresponding to that sampleID
 
- The csv file must have the following header: #"sample", #"fastq_1" ,#"fastq_2" "strandedness"
+ The csv file must have the following header: "sample", "fastq_1" ,"fastq_2" "strandedness"
 
  sample: sample IDs
  fastq_1 &fastq_2:  are the addresses of the forward/reverse strand

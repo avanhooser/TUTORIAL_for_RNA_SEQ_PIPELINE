@@ -7,7 +7,7 @@
   -  Must have access to SENSORIUM AWS S3
   -  Must have access to SENSORIUM NEXTFLOWTOWER account
 
-## Step1: In AWS S3: Locate the address of the unprocessed FASTQ files containing the nucleotide sequence data to analyze;
+## Step1: In AWS S3: Locate the address of the unprocessed FASTQ files containing the nucleotide sequence data to analyze
 
    This data is always stored in AWS S3 bucket
    Typically, WUXI data is deposited in s3://cro-wuxi/

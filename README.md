@@ -7,13 +7,16 @@
   -  Must have access to SENSORIUM AWS S3
   -  Must have access to SENSORIUM NEXTFLOWTOWER account
 
-## Step1: In AWS S3: Locate the address of the unprocessed FASTQ files containing the nucleotide sequence data to analyze
+## Step1: In AWS S3: Locate the address of the unprocessed FASTQ files containing the nucleotide sequence data to analyze.
 
    This data is always stored in AWS S3 bucket
+   
    Typically, WUXI data is deposited in s3://cro-wuxi/
+   
               and QUINTARA data is deposited in s3://sensorium-research-rna-seq-raw-quintara/
 
 For this tutorial,we created the folder "TEST"  ---> s3://sensorium-research-rna-seq-raw-quintara/TEST/"
+
 which contains some sample FASTQ files
 
 ## Step2:  Create a csv file (FASTQMAP) that maps each samiple ID with the FASTQ addresses corresponding to that sampleID

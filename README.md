@@ -52,7 +52,9 @@ Output:  s3://sensorium-tower-bucket/result_TEST/
 genome: GRCh37|GRCm38|Rnor_6.0
 
 GRCh37  -----> Human
+
 GRCm38   ----> Mouse
+
 Rnor_6.0  ---> Rat
 
 Note: Leave any other field blank. In this setting the fileds will be auto-populated with the necessary files

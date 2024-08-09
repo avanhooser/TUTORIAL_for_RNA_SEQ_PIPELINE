@@ -12,7 +12,6 @@
    This data is always stored in AWS S3 bucket
    
    Typically, WUXI data is deposited in s3://cro-wuxi/
-   
               and QUINTARA data is deposited in s3://sensorium-research-rna-seq-raw-quintara/
 
 For this tutorial,we created the folder "TEST"  ---> s3://sensorium-research-rna-seq-raw-quintara/TEST/"
